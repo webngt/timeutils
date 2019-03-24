@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/simplereach/timeutils"
+	"github.com/webngt/timeutils"
 )
 
 func ExampleNewTime() {
