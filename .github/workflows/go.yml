@@ -24,7 +24,7 @@ jobs:
             dep ensure
         fi
     - name: Build
-      run: go build -buildmode=c-archive -v .
+      run: go build -v
 
     - name: Test
       run: go test
