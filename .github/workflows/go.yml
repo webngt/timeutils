@@ -31,6 +31,10 @@ jobs:
 
     - name: Build
       run: go build -v .
+      env:
+          CC: ${{ matrix.compiler }}
 
     - name: Test
       run: go test .
+      env:
+          CC: ${{ matrix.compiler }}
