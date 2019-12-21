@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/webngt/log-cardinality)](https://goreportcard.com/report/github.com/webngt/log-cardinality)
+[![Go Report Card](https://goreportcard.com/badge/github.com/webngt/timeutils)](https://goreportcard.com/report/github.com/webngt/timeutils)
 
 Go Time Utils
 ==============
